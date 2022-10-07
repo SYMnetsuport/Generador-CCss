@@ -2,7 +2,8 @@
 
 Con FreeGen podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
 
-
+LINK DEL GEN
+https://gatesccn01.github.io/Generador-CCss/
 
 ## MI CCGEN NO FUNCIONA O DEJÓ DE FUNCIONAR:
 
@@ -13,7 +14,7 @@ Si tu generador dejó de funcionar luego de modificarlo, significa que borraste 
 > eso y no se ejecutarán sus funciones.**
 
 
-# Créditos:
+# Créditos: 
 
 Todo el desarrollo, modificación, colores, y **tiempo** fueron con dedicación por **[EL MANDARIN SNIFF](https://t.me/GATESCCN)**, dueño de [**LATAMSRC**](https://t.me/LATAMSRC)
 
